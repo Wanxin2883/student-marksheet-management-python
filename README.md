@@ -85,7 +85,7 @@ PythonMarksheet_Management_System/
 
 ---
 
-## 🧠 Author
+## 👤 Author
 Cheah Wan Xin
 
 
