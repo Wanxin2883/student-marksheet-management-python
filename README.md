@@ -1,7 +1,5 @@
 # 📘 Student Marksheet Management System
 
-## 🎯 Project Overview
-
 This project is a Python-based marksheet management system designed for a lecturer to manage student marks. The program allows lecturers to add, search, edit, and delete student records, calculate final marks, and assign grades based on predefined criteria. The grades are displayed along with a grade distribution table, and all student data can be saved or loaded from an external file for later modifications.
 
 ---
