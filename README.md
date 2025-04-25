@@ -64,7 +64,7 @@ pip install matplotlib pandas
 ## 🚀 How to Use
 
 1. **Launch Jupyter Notebook**  
-   Open `PythonMarksheet_Management_System.ipynb` in Jupyter.
+   Open `main.ipynb` in Jupyter.
 
 2. **Follow the Menu**  
    Input options will guide you to add/edit/delete/save/load student marks.
