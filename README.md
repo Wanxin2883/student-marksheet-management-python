@@ -1,4 +1,4 @@
-# 📘 Python Marksheet Management System
+# 📘 Student Marksheet Management System
 
 ## 🎯 Project Overview
 
