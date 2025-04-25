@@ -59,13 +59,7 @@ This project is a Python-based marksheet management system designed for a lectur
 ```bash
 pip install matplotlib pandas
 ```
-
-## 📂 Project Structure
-PythonMarksheet_Management_System/
-│
-├── main.ipynb                               # 📓 Main notebook
-├── PythonMarksheet_2022_Semester3.txt       # 📄 Sample data file
-└── README.md                                # 📝 This file
+---
 
 ## 🚀 How to Use
 
