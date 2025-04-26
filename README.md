@@ -37,7 +37,7 @@ This project is a Python-based marksheet management system designed for a lectur
 - 📋 Display all student records
 - 💾 Save records to file (e.g., `PythonMarksheet_2022_Semester3.txt`)
 - 📂 Load records from file
-- 📊 Show grade distribution and histogram
+- 📊 Show grade distribution 
 
 ✅ **No Lists or Tuples!**  
 - Only **dictionaries** are used to manage multiple student records.
@@ -45,20 +45,6 @@ This project is a Python-based marksheet management system designed for a lectur
 ✅ **Robust Error Handling**
 - String validation ensures no runtime errors occur.
 
----
-
-## 🛠️ Technologies Used
-
-- **Language**: Python 3.x  
-- **Platform**: Jupyter Notebook (.ipynb)  
-- **Libraries**:  
-  - `matplotlib` 📊 (for histogram visualization)  
-  - `pandas` 🐼 (for grade distribution analysis)
-
-> 💡 *Install required packages with:*
-```bash
-pip install matplotlib pandas
-```
 ---
 
 ## 🚀 How to Use
@@ -70,7 +56,7 @@ pip install matplotlib pandas
    Input options will guide you to add/edit/delete/save/load student marks.
 
 3. **Generate Reports**  
-   View grade tables and a histogram after loading or entering data.
+   View grade tables after loading or entering data.
 
 4. **Save Data**  
    Save data with custom filenames (e.g., `PythonMarksheet_2022_Semester3.txt`) for future reuse.
