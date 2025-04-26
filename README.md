@@ -63,7 +63,7 @@ This project is a Python-based marksheet management system designed for a lectur
 
 ---
 
-## 👤 Author
+## 👨‍💻 Author
 Cheah Wan Xin
 
 
